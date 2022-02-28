@@ -1,7 +1,9 @@
 table {
     background: maroon; 
+     border: 5px
     color: black; 
  }
  th{
 background: navy;
+ border: 5px
  }
